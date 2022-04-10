@@ -1,0 +1,36 @@
+.heading {
+  font-family: "Roboto";
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.bg-container {
+  background-color: #03fc88;
+  background-size: cover;
+}
+.hyperlinks{
+  white-space: nowrap;
+  max-width:1200px;
+  margin:auto;
+  position:fixed;
+  background-color:#f4f4f4;
+}
+.link{
+  width:25px;
+  display:inline-block;
+  font-size:24px;
+}
+.details{
+  color:#ffffff;
+  font-size:20px;
+  font-family:"roboto";
+}
+.paragraph{
+  color:#ffffff;
+  font-size:20px;
+  font-family:"roboto";
+}
+.images{
+  height:100px;
+  width:150px;
+}
